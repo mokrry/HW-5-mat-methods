@@ -1,0 +1,33 @@
+document_id,entity,gold_answer,pred_answer
+ru-1000,Brexit,EVT,EVT
+ru-1000,The Guardian,PRO,PRO
+ru-1000,Борис Джонсон,PER,PER
+ru-1000,Бориса Джонсона,PER,ORG
+ru-1000,Бориса,PER,ORG
+ru-1000,Великобритании,LOC,PER
+ru-1000,Джонсон,PER,PER
+ru-1000,Дэвид Дэвис,PER,PER
+ru-1000,ЕС,ORG,PER
+ru-1000,МИД Соединенного Королевства,ORG,ORG
+ru-1000,Подробности.ua,PRO,LOC
+ru-1000,Стив Бейкер,PER,PER
+ru-1000,Тереза Мэй,PER,PER
+ru-1000,УНН,ORG,PRO
+ru-1011,Brexit,EVT,EVT
+ru-1011,The Guardian,PRO,PRO
+ru-1011,Борис Джонсон,PER,PER
+ru-1011,Бориса Джонсона,PER,PRO
+ru-1011,Борисом Джонсоном,PER,LOC
+ru-1011,Великобританией,LOC,ORG
+ru-1011,Великобритании,LOC,PRO
+ru-1011,Джонсона,PER,PRO
+ru-1011,Джонсоном,PER,ORG
+ru-1011,Дэвид Дэвис,PER,PER
+ru-1011,Дэвисом,PER,ORG
+ru-1011,ЕС,ORG,ORG
+ru-1011,Евросоюза,ORG,ORG
+ru-1011,Мэй,PER,ORG
+ru-1011,Палате общин,ORG,PER
+ru-1011,Тереза Мэй,PER,PER
+ru-1011,Терезу Мэй,PER,PER
+ru-1011,Терезы Мэй,PER,ORG
